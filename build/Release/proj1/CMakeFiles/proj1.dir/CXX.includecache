@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/EclipseTests/test_handy/src/proj1/main.cpp
+iostream
+-
+test.h
+/home/alex/EclipseTests/test_handy/src/proj1/test.h
+
+/home/alex/EclipseTests/test_handy/src/proj1/test.cpp
+test.h
+/home/alex/EclipseTests/test_handy/src/proj1/test.h
+
+/home/alex/EclipseTests/test_handy/src/proj1/test.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proj2.dir/main.cpp.o CMakeFiles/proj2.dir/test.cpp.o CMakeFiles/proj2.dir/test2.cpp.o  -o proj2 -rdynamic 

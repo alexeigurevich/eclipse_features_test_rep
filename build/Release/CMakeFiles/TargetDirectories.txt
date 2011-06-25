@@ -1,0 +1,2 @@
+/home/alex/EclipseTests/test_handy/build/Release/proj1/CMakeFiles/proj1.dir
+/home/alex/EclipseTests/test_handy/build/Release/proj2/CMakeFiles/proj2.dir
